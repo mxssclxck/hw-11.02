@@ -30,7 +30,7 @@
 
 *Приведите скриншот systemctl status memcached,  где будет видно, что memcached запущен.*
 
-![alt text](https://github.com/mxssclxck/hw-11.02/blob/img/1.png)
+![alt text](https://github.com/mxssclxck/hw-11.02/blob/main/img/1.png)
 
 ## Задание 3. Удаление по TTL в Memcached
 
@@ -38,7 +38,7 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
-![alt text](https://github.com/mxssclxck/hw-11.02/blob/img/2.png)
+![alt text](https://github.com/mxssclxck/hw-11.02/blob/main/img/2.png)
 
 ## Задание 4. Запись данных в Redis
 
@@ -46,7 +46,7 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
-![alt text](https://github.com/mxssclxck/hw-11.02/blob/img/3.png)
+![alt text](https://github.com/mxssclxck/hw-11.02/blob/main/img/3.png)
 
 ## Задание 5*. Работа с числами
 
@@ -56,4 +56,4 @@
 *Приведите скриншот, где будут проделаны все операции и*
 *будет видно, что значение key5 стало равно 10.*
 
-![alt text](https://github.com/mxssclxck/hw-11.02/blob/img/4.png)
+![alt text](https://github.com/mxssclxck/hw-11.02/blob/main/img/4.png)
